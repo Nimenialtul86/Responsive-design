@@ -404,6 +404,7 @@ fieldset {
     font-size: 1.8rem;
     border-radius: .5rem;
     padding: .5rem;
+    color: black;
 }
 .form select {
     font-size: 1.5rem;
@@ -423,6 +424,7 @@ textarea {
     height: 10rem;
     margin-bottom: 1.5rem;
     font-size: 1.4rem;
+    color: black;
     padding: .5rem;
     border-radius: .5rem;
 }
